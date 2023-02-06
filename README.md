@@ -63,4 +63,4 @@ m_enemys[i].m_Rect.intersects(m_hero.m_bullets[j].m_Rect)
 
 3.获得不同的道具
 
-就是可以和![DodgeBullet](https://github.com/imrewang/DodgeBullets)结合
+就是可以和[DodgeBullets](https://github.com/imrewang/DodgeBullets)结合
